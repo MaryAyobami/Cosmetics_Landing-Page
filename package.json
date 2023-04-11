@@ -24,7 +24,7 @@
       "react-app/jest"
     ]
   },
-  "engines": { "node": "14.x" },
+  
   "browserslist": {
     "production": [
       ">0.2%",
@@ -37,6 +37,8 @@
       "last 1 safari version"
     ]
   },
+  "engines": { "node": "14.x" },
+
   "devDependencies": {
     "tailwindcss": "^3.2.7"
   }
